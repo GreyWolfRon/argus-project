@@ -39,9 +39,9 @@ Argus does **not** replace Athena. It watches over it.
 - **Autonomous Recovery** — Safe containment and bootstrap revalidation
 - **Carrier-Grade Philosophy** — Inspired by NOCC/telecom/distributed systems
 
-## Relationship
+## Relationship to Athena
 
-Argus is the natural complement to the [Athena Persistent-Memory Cognitive Architecture]([https://github.com/yourusername/athena-architecture](https://github.com/GreyWolfRon/athena-persistent-memory-architecture/blob/main/README.md)) (also by Grey Wolf Labs).
+Argus is the natural complement to the [Athena Persistent-Memory Cognitive Architecture](https://github.com/GreyWolfRon/athena-persistent-memory-architecture) (also by Grey Wolf Labs).
 
 - **Athena** → Persistent mind, structured memory, scoped retrieval
 - **Argus** → Persistent operational integrity and supervision
@@ -50,7 +50,7 @@ Together they form a complete stack for safe, long-duration autonomous agents.
 
 ## Download
 
-- **[Argus v0.03 — Full PDF (19 pages)]([https://github.com/yourusername/argus-project/raw/main/Argus_v0.03.pdf](https://github.com/GreyWolfRon/athena-persistent-memory-architecture/blob/main/docs/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.pdf))**  
+- **[Argus v0.03 — Full PDF (19 pages)](https://github.com/GreyWolfRon/argus-project/raw/main/Argus_v0.03.pdf)**  
   Includes new Appendix A and final closing graphic
 
 ## Status
