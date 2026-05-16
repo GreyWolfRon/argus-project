@@ -40,3 +40,38 @@ Argus does **not** replace Athena. It watches over it.
 - **Carrier-Grade Philosophy** — Inspired by NOCC/telecom/distributed systems
 
 ## Relationship
+
+Argus is the natural complement to the [Athena Persistent-Memory Cognitive Architecture]([https://github.com/yourusername/athena-architecture](https://github.com/GreyWolfRon/athena-persistent-memory-architecture/blob/main/README.md)) (also by Grey Wolf Labs).
+
+- **Athena** → Persistent mind, structured memory, scoped retrieval
+- **Argus** → Persistent operational integrity and supervision
+
+Together they form a complete stack for safe, long-duration autonomous agents.
+
+## Download
+
+- **[Argus v0.03 — Full PDF (19 pages)]([https://github.com/yourusername/argus-project/raw/main/Argus_v0.03.pdf](https://github.com/GreyWolfRon/athena-persistent-memory-architecture/blob/main/docs/Athena_Persistent_Memory_Cognitive_Architecture_Whitepaper_v1.pdf))**  
+  Includes new Appendix A and final closing graphic
+
+## Status
+
+This is an **Operational Concept Draft**.  
+Not all components are fully operational yet — the author is actively building the reference implementation on top of OpenClaw + Athena.
+
+The paper documents real experimental observations and proposes a concrete architectural solution. It is intended to raise awareness that **persistent AI agents cannot be trusted on their own** and must be given continuous, independent supervisory oversight.
+
+## Author
+
+**Ron Coleman**  
+Grey Wolf Labs
+
+---
+
+**“Session context is not cognition. And cognition without operational integrity is unsafe.”**
+
+---
+
+*Argus v0.03 • May 2026*
+
+
+
