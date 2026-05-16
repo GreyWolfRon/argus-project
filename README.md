@@ -2,7 +2,7 @@
 
 **Never-Sleeping Oversight for Trustworthy Autonomous Agents**
 
-[![Version](images/Argus.jpg)](https://github.com/yourusername/argus-project/releases)  
+[![Version](images/Argus.jpg)](docs/Argus%20v0.03.pdf)  
 **COCC — Cognitive Operations Command and Control**  
 *Operational Concept Draft* — Ron Coleman / Grey Wolf Labs — May 2026
 
