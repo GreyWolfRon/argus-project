@@ -50,7 +50,7 @@ Together they form a complete stack for safe, long-duration autonomous agents.
 
 ## Download
 
-- **[Argus v0.03 — Full PDF (19 pages)](https://github.com/GreyWolfRon/argus-project/raw/main/Argus_v0.03.pdf)**  
+- **[Argus v0.03 — Full PDF (19 pages)](docs/Argus%20v0.03.pdf)**  
   Includes new Appendix A and final closing graphic
 
 ## Status
