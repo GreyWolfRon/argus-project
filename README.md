@@ -1,3 +1,7 @@
+![GitHub stars](https://img.shields.io/github/stars/GreyWolfRon/athena-persistent-memory-without-context.svg)
+
+
+
 # The Argus Project
 
 **Never-Sleeping Oversight for Trustworthy Autonomous Agents**
